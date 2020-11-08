@@ -1,6 +1,6 @@
 # Sample Game Clips of "Protect Her Country"
 
-Here are some sample game clips of an action role-game I (co-) developed in the first year as a final project for the class Object-Oriented Programming. Feel free to download and watch them for fun.
+Here are some sample game clips of an action role-game I (co-)developed in the first year as a final project for the class Object-Oriented Programming. Feel free to download and watch them for fun.
 
 
 ## Disclaimer
